@@ -15,4 +15,13 @@ Documenting my path from zero to Claude Certified Architect – Foundations (CCA
 - [ ] Claude Code in Action
 
 ## Portfolio Projects
-Coming soon...
+
+### 1. Instagram Campaign Performance Analysis
+Used Claude to analyze Sydney-based K-pop men's fashion brand 
+Instagram data and generate actionable marketing recommendations.
+[View Project](projects/use-case-1-campaign-analysis.md)
+
+### 2. AI Tools Stack for Marketing
+Documented a complete AI-powered marketing workflow using 
+Claude.ai, Claude for Chrome, Claude for Excel, and Claude for PowerPoint.
+[View Project](projects/ai-tools-stack-for-marketing.md)
