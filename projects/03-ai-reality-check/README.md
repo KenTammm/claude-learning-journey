@@ -5,6 +5,8 @@
 > **Framework:** Based on the AI Fluency 4D Framework (Anthropic, Dakan & Feller, 2025)  
 > **Last updated:** April 2026
 
+🌐 **[View Interactive Version →](https://kentammm.github.io/claude-learning-journey/projects/03-ai-reality-check/ai-reality-check.html)**
+
 ---
 
 ## Overview
@@ -151,6 +153,9 @@ If both answers are NO — I delegate freely and focus my energy on reviewing th
 - Dakan, R. & Feller, J. (2025). *The AI Fluency Framework*. Anthropic.
 - Anthropic (2025). *AI Fluency: Framework and Foundations* [Online Course].
 
+---
+
+*Part of my [Claude Learning Journey](https://github.com/KenTammm/claude-learning-journey) — documenting my path to CCA-F certification.*
 ---
 
 *Part of my [Claude Learning Journey](https://github.com/KenTammm/claude-learning-journey) — documenting my path to CCA-F certification.*
